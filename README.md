@@ -23,7 +23,7 @@ Responsive Design:
 Custom CSS and Bootstrap:
 •	Custom styles are used for the sidebar's appearance, while Bootstrap's grid system and utilities ensure responsive behavior.
 
-A video link for a short presentation explaining my approach
-https://github.com/user-attachments/assets/e5ceb713-613d-41d4-9151-369703667612
+A video link for a short presentation explaining my approach:-
+https://github.com/user-attachments/assets/0b800df8-0363-4479-8442-0e9b88fdd420
 
 
